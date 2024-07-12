@@ -1,11 +1,8 @@
 {
   "name": "com.doji.sentencepiece",
   "version": "0.0.0",
-  "displayName": "Sentencepiece",
-  "description": "A C# Sentencepiece implementation",
-  "dependencies": {
-    "com.stalomeow.google-protobuf": "25.2.0"
-  },
+  "displayName": "SentencePiece",
+  "description": "A C# SentencePiece implementation",
   "author": {
     "name": "Doji Technologies",
     "email": "support@doji-tech.com",
